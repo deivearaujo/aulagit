@@ -4,7 +4,7 @@ Descrição inicial do meu READ ME.
 
 ## Subtitulo
 
-blablablabla
+Esse é o titulo do subtitulo
 
 ## Para que serve esse arquivo?
 
